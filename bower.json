@@ -1,0 +1,23 @@
+{
+  "name": "c4d-testimonial",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      "owl-carousel": "latest"
+  },
+  "install": {
+      "path": "libs",
+      "sources": {
+          "owl-carousel": "bower_components/owl-carousel/owl-carousel/**"
+      }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "c4d-testimonial",
+  "version": "1.0.0",
+  "description": "=== Team Member === Contributors: Coffee4dev Donate link: http://coffee4dev.com Tags: 1.0.0 Requires at least: 3.3 Tested up to: 4.7.2 Stable tag: 1.0.0 License: GPLv2 or later License URI: http://www.gnu.org/licenses/gpl-2.0.html",
+  "main": "index.js",
+  "dependencies": {
+    "bower-installer": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
